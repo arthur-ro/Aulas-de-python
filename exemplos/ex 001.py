@@ -1,4 +1,3 @@
-msg = 'Olá, Mundo'
-print(msg)
+print('Ola, Mundo')
 
 
